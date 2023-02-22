@@ -1,6 +1,6 @@
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 <h1 align="center">Hi 👋, I'm Praise Obah</h1>
-<h4 align="center">I am Front-end 👨🏻‍💻 Web Developer I love playing destroy and move the code to squeeze as much learning as possible and apply it to create a better future. <p>I'm passionate frontend developer from Nigeria</p></h4>
+<h4 align="center">I am passionate Front-end 👨🏻‍💻 Software engineer. I love playing destroy and move codes to squeeze as much learning as possible and apply it to create a better future. <p>I'm from Nigeria</p></h4>
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlMTY3MmZjOGRlMTI5MzA5ZDUzYzA5MTUzN2RlMTcxYmUyZGUyMCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 
