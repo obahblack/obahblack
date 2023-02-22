@@ -1,8 +1,20 @@
-- 👋 Hi, I’m Praise obah
-- 👀 I’m interested in User interface & Experience design and Frontend dev opportunities 
-- 🌱 I’m currently learning ... Fullstack software Engineering with alx
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... obahsomto@gmail.com
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+<h1 align="center">Hi 👋, I'm Praise Obah</h1>
+<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWRlMTY3MmZjOGRlMTI5MzA5ZDUzYzA5MTUzN2RlMTcxYmUyZGUyMCZjdD1n/TFPdmm3rdzeZ0kP3zG/giphy.gif">
+
+- 🔭 I’m currently working on **A simple shell project**
+
+- 🌱 I’m currently taking a course on **Fullstack Software Engineering with ALX**
+
+- 📫 How to reach me **obahsomto@gmail.com**
+
+- ⚡ Fun fact **I can't swim. LOL**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/praiseobah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_obah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/praise-obah-403601231/) 
